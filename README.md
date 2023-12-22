@@ -7,7 +7,7 @@ for any given load-drive-dump cycle.
 
 This work produced an autoencoder that predicted anomalies.
 
-My key takeaways
+My key takeaways 
 
 | Skills    | Status |
 | -------- | ------- |
@@ -17,3 +17,4 @@ My key takeaways
 | PySpark ML Gaussian mixture model    | Success    |
 | Keras Tensorflow Autoencoder   | Success    |
 | Keras Tensorflow Variational Autoencoder   | Success    |
+| Completion of extended work  | Submitted    |
