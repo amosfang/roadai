@@ -5,4 +5,15 @@
 devices. Both data sources are reconciled, the vibration data is aggregated at 5 seconds intervals before feeding into an autoencoder neural network where its reconstruction loss is measured. A loss threshold value is set at an arbitrary percentile of all computed losses, and a sequence of observations is identified as abnormal if its loss exceeds this threshold. Finally, the anomaly detection provides new insights to truck operations and informs the decision maker about the vibration anomaly
 for any given load-drive-dump cycle.
 
-Status: Unsuccessful
+This work produced an autoencoder that predicted anomalies.
+
+My key takeaways
+
+| Skills    | Status |
+| -------- | ------- |
+| Pyspark for data ingestion  | Success    |
+| Pyspark for data processing | Success     |
+| PySpark ML K-means clustering   | Success    |
+| PySpark ML Gaussian mixture model    | Success    |
+| Keras Tensorflow Autoencoder   | Success    |
+| Keras Tensorflow Variational Autoencoder   | Success    |
