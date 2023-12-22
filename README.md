@@ -1,4 +1,6 @@
-## RoadAI
+## RoadAI (Nordic Machine Intelligence)
+
+Status: Unsuccessful
 ---
 
 1.5% of Norwegian CO 2 emissions comes from construction machines, so trucks transporting construction material and equipment contribute to the industry’s overall carbon footprint. By harnessing truck activity data from a road construction site in Viken county in the Oslo region, this work aims to automate truck activity monitoring and anomaly detection, by collecting kinematic and vibration data, processing big data and training deep learning models. When driving activity is monitored and its inefficiencies are identified, sustainability can be achieved through direct emissions cuts, by understanding operational norms and minimizing non-optimal driving behaviour. This work delivers a combined big data analytics and artificial intelligence solution, applied to a real-world scenario in the road construction context. Kinematic data is inferred from GPS tracking logs, while vibration data is obtained from motion detecting sensors found in iPad edge
